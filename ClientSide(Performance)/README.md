@@ -1,6 +1,7 @@
 This is a **Client-Side Only** system.
 * **Maximum Speed:** Very smooth and fast experience.
 * **Zero Server Lag:** No Remote Events aren't used
+* **This version is NOT secure against cheating (exploits). But it dont cause server lag**
 
 **How it works ?**
 * **1)** Player joins to the game and a function starts working on a server script.
