@@ -6,6 +6,9 @@
  / /      \___/      \ \/_________/         
  🍊 MANDALİNA STUDIO © 2025 By ProfDrOsman 🍊
  [Open-Source portatible shift to run model]
+ this code is only for PC and it is more stable.
+ You can copy this code into a Local Script that
+ you create inside StarterPlayer.
 ]]--
 
 local UserInputService = game:GetService("UserInputService")
@@ -27,3 +30,4 @@ UserInputService.InputEnded:Connect(function() --normal speed
 		humanoid.WalkSpeed = 16 --current speed
 	end
 end)
+
